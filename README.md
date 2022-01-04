@@ -3,6 +3,7 @@
 * #### [Regression](Regression)
 * #### [Classification](Classification)
 * #### [T5_NLP_Project](T5_NLP_Project)
+* #### [DeepLearning](DeepLearning)
 
 ![What-is-data-science.jpg ](What-is-data-science.jpg )
 
